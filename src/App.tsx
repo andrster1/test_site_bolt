@@ -29,13 +29,13 @@ function App() {
 
         <section id="about" className="py-20">
           <div className="container mx-auto px-4">
-            <h2 className="text-4xl font-bold text-center mb-12">About John Serenity</h2>
+            <h2 className="text-4xl font-bold text-center mb-12">About Georgios Batikas</h2>
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 mb-8 md:mb-0">
-                <img src="https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="John Serenity" className="rounded-lg shadow-lg" />
+                <img src="batikas001.jpg" alt="John Serenity" className="rounded-lg shadow-lg" />
               </div>
               <div className="md:w-1/2 md:pl-12">
-                <p className="text-lg mb-6">John Serenity is a compassionate spiritual guide dedicated to helping women find balance, peace, and purpose in their lives. With over 20 years of experience in meditation, mindfulness, and holistic healing, John offers a unique perspective that combines ancient wisdom with modern understanding.</p>
+                <p className="text-lg mb-6">Georgios Batikas is a compassionate spiritual guide dedicated to helping women find balance, peace, and purpose in their lives. With over 20 years of experience in meditation, mindfulness, and holistic healing, John offers a unique perspective that combines ancient wisdom with modern understanding.</p>
                 <p className="text-lg">His approach is gentle, non-judgmental, and tailored to each individual's needs, creating a safe space for women to explore their inner selves and overcome emotional challenges.</p>
               </div>
             </div>
@@ -70,12 +70,12 @@ function App() {
             <h2 className="text-4xl font-bold text-center mb-12">Testimonials</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <p className="italic mb-4">"John's guidance has been transformative. I've found a sense of peace I never knew was possible."</p>
-                <p className="font-bold">- Sarah M.</p>
+                <p className="italic mb-4">"Georgios' guidance has been transformative. I've found a sense of peace I never knew was possible."</p>
+                <p className="font-bold">- Alex Z.</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-md">
                 <p className="italic mb-4">"The emotional support and practical advice I've received have helped me overcome my deepest fears."</p>
-                <p className="font-bold">- Emily R.</p>
+                <p className="font-bold">- Elpida B.</p>
               </div>
             </div>
           </div>
@@ -98,7 +98,7 @@ function App() {
 
       <footer className="bg-gray-800 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 John Serenity. All rights reserved.</p>
+          <p>&copy; 2024 Georgios Batikas. All rights reserved.</p>
         </div>
       </footer>
     </div>
