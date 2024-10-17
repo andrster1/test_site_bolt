@@ -77,6 +77,10 @@ function App() {
                 <p className="italic mb-4">"The emotional support and practical advice I've received have helped me overcome my deepest fears."</p>
                 <p className="font-bold">- Elpida B.</p>
               </div>
+              <div className="bg-white p-6 rounded-lg shadow-md">
+                <p className="italic mb-4">"His humongus dick helped me achieve an orgasm for the first time in my life."</p>
+                <p className="font-bold">- Your Mother</p>
+              </div>
             </div>
           </div>
         </section>
