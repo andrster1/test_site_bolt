@@ -6,7 +6,7 @@ function App() {
     <div className="min-h-screen bg-purple-50 text-gray-800 font-sans">
       <header className="bg-white shadow-md">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-          <h1 className="text-3xl font-bold text-purple-700">John Serenity</h1>
+          <h1 className="text-3xl font-bold text-purple-700">Georgios Batikas</h1>
           <nav>
             <ul className="flex space-x-6">
               <li><a href="#about" className="hover:text-purple-600">About</a></li>
@@ -32,7 +32,7 @@ function App() {
             <h2 className="text-4xl font-bold text-center mb-12">About Georgios Batikas</h2>
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/2 mb-8 md:mb-0">
-                <img src="batikas001.jpg" alt="John Serenity" className="rounded-lg shadow-lg" />
+                <img src="batikas001.jpg" alt="Georgios Batikas" className="rounded-lg shadow-lg" />
               </div>
               <div className="md:w-1/2 md:pl-12">
                 <p className="text-lg mb-6">Georgios Batikas is a compassionate spiritual guide dedicated to helping women find balance, peace, and purpose in their lives. With over 20 years of experience in meditation, mindfulness, and holistic healing, John offers a unique perspective that combines ancient wisdom with modern understanding.</p>
